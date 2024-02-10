@@ -1,22 +1,33 @@
-<h1>Todo List App Using Vanilla JavaScript</h1>
-<p>
-  It is user-friendly Todo List application that is created using only HTML, CSS, and JavaScript(Vanilla JS) without applying on any external libraries. The       
-  application is part of a project that was undertaken during the Career Camp course at Coding Ninjas.
-</p>
-<h2>Technical Skills:</h2>
-<p>Language: HTML, CSS, JavaScript</p>
-<h2>Key Features:</h2>
-<ul>
-  <li>Create ToDo lists</li>
-  <li>Update and delete ToDo lists as needed</li>
-  <li>create checkbox to check the item off the list</li>
-  <li>continuing ToDo lists even after the browser is closed</li>
-  <li>Responsive design to ensure optimal user experience on both mobile and desktop devices</li>
-</ul>
-<h2>Key Takeways</h2>
-<ul>
-  <h4>In this Project i have learned so many things like:</h4>
-  <li>How to select HTML element using Document Object Model and manipulate these element such as adding event listeners or changing their content.</li>
-  <li> In this code i learned how to use of localstorage to persist data locally in user's browser.</li>
-  <li>i used several function like showTsks, deleteTask to organize the code and make it modular and reusable.</li>
-</ul>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+  <h1>Building a Todo List App with Vanilla JavaScript</h1>
+  <p>Welcome to a simple yet efficient Todo List application crafted using just HTML, CSS, and Vanilla JavaScript. This project is a result of the practical work undertaken during the Career Camp course at Coding Ninjas.</p>
+  
+  <h2>Technical Skills Utilized:</h2>
+  <p>Language: HTML, CSS, JavaScript</p>
+  
+  <h2>Core Features:</h2>
+  <ul>
+    <li>Creating ToDo Lists: You can effortlessly create new tasks to organize your workflow.</li>
+    <li>Updating and Deleting Tasks: Modify or remove tasks as per your requirements.</li>
+    <li>Checkbox Functionality: Check off completed tasks for better task management.</li>
+    <li>Persistent Data: Your Todo lists persist even after closing the browser, thanks to local storage implementation.</li>
+    <li>Responsive Design: The application is optimized for seamless user experience across various devices, including mobile and desktop.</li>
+  </ul>
+  
+  <h2>Key Takeaways:</h2>
+  <ul>
+    <li><strong>DOM Manipulation:</strong> Learn how to select HTML elements using the Document Object Model and manipulate them effectively, such as adding event listeners or altering their content.</li>
+    <li><strong>Local Storage Implementation:</strong> Understand the usage of local storage to store data locally in the user's browser, ensuring data persistence.</li>
+    <li><strong>Modular Code:</strong> Explore the use of functions like showTasks and deleteTask to organize the codebase, making it modular and highly reusable.</li>
+  </ul>
+  
+  <p>This Todo List application serves as an excellent hands-on project for understanding fundamental web development concepts while delivering a practical and user-friendly solution for task management needs.</p>
+</body>
+</html>
+
